@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace AppointmentReminders.Web.Models
+namespace AppointmentReminders.Models
 {
     public class Appointment
     {
