@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Twilio.Clients;
+using Twilio.Rest.Api.V2010.Account;
+using Twilio.Types;
+using System.Web.Configuration;
 
 namespace AppointmentReminders.Domain.Twilio
 {
