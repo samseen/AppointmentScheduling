@@ -1,4 +1,5 @@
 ﻿using AppointmentReminders.Models;
+using AppointmentReminders.Models.Repository;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
