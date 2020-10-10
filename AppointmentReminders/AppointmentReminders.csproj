@@ -166,6 +166,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Hangfire.cs" />
+    <Compile Include="Models\Repository\IAppointmentRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Appointment.cs" />
     <Compile Include="Startup.cs" />
