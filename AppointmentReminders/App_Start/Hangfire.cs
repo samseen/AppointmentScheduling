@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using Hangfire;
-using System.Web.Http;
+﻿using Hangfire;
+using Owin;
 
 namespace AppointmentReminders
 {

@@ -1,4 +1,7 @@
-﻿using AppointmentReminders.Models;
+﻿using AppointmentReminders.Domain;
+using AppointmentReminders.Models;
+using AppointmentReminders.Models.Repository;
+using Microsoft.Ajax.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

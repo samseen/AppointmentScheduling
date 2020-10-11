@@ -14,7 +14,7 @@ namespace AppointmentReminders.Controllers
     {
         private readonly IAppointmentRepository _repository;
 
-        public AppointmentsController() : this(new AppointmentsController()) { }
+        public AppointmentsController() : this(new AppointmentRepository()) { }
 
         public AppointmentsController(IAppointmentRepository repository)
         {
